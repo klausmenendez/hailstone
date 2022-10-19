@@ -15,6 +15,6 @@ def hailstone(val):
               count+=1
     return count
 
-print(hailstone(9))
+# print(hailstone(9))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
